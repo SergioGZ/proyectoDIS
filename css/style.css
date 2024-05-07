@@ -1,6 +1,3 @@
-/* FONTS */
-@import url(../css/clash-display.css);
-
 /* VARIABLES */
 :root {
     --c-dark: #212529; /* Color de texto */
@@ -138,7 +135,7 @@ img {
 /* CLASIFICACIONES */
 
 #clasificaciones table {
-    font-size: x-large;
+    font-size: large;
 }
 
 #clasificaciones th {
