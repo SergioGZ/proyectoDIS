@@ -146,7 +146,7 @@ img {
 }
 
 #clasificaciones .redbull td {
-    background-color: #2a0bb3;
+    background-color: #210892;
     color: white;
 }
 
@@ -162,6 +162,36 @@ img {
 
 #clasificaciones .mercedes td {
     background-color: #00d2be;
+    color: black;
+}
+
+#clasificaciones .astonmartin td {
+    background-color: #006f62;
+    color: white;
+}
+
+#clasificaciones .rb td {
+    background-color: #2522d6;
+    color: white;
+}
+
+#clasificaciones .alpine td {
+    background-color: #242a5a;
+    color: white;
+}
+
+#clasificaciones .sauber td {
+    background-color: #0fd330;
+    color: black;
+}
+
+#clasificaciones .williams td {
+    background-color: #005aff;
+    color: white;
+}
+
+#clasificaciones .haas td {
+    background-color: #ffffff;
     color: black;
 }
 
