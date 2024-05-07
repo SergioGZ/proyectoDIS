@@ -39,8 +39,8 @@ img {
 }
 
 .section-padding {
-    padding-top: 140px;
-    padding-bottom: 140px;
+    padding-top: 100px;
+    padding-bottom: 10px;
 }
 
 .theme-shadow {
@@ -75,7 +75,7 @@ img {
 }
 
 .navbar-nav .nav-link {
-    font-weight: 500;
+    font-size: 16px;
     color: var(--c-dark);
 }
 
@@ -108,7 +108,7 @@ img {
 
 /* HERO */
 #hero {
-    background: linear-gradient(rgba(var(--c-brand-rgb), 0.6), rgba(var(--c-brand-rgb), 0.1)), url(../images/banner.jpg); /* Imagen con transparencia de color */
+    background: linear-gradient(rgba(var(--c-brand-rgb), 0.6), rgba(var(--c-brand-rgb), 0.1)), url(../images/hero.gif); /* Imagen con transparencia de color */
     background-position: center;
     background-size: cover;
 }
